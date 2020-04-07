@@ -1,4 +1,17 @@
 header {
-  background: green;
+  background: yellow;
   padding: 250px 0;
+}
+
+.sub h3 {
+  padding: 30px 0 10px 0;
+}
+
+.sub hr {
+  width: 50px;
+  border: 3px solid;
+}
+
+.sub p {
+  padding: 10px 0 30px 0;
 }
